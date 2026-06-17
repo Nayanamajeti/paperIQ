@@ -160,19 +160,6 @@ paperiq/
 
 ---
 
-## 💡 Example Use Cases
-
-**Healthcare Research**
-Upload a clinical AI paper → instantly extract what model achieved what accuracy on which dataset → ask "what were the false positive rates?" → get cited answer with page number.
-
-**Engineering / CS Papers**
-Upload a deep learning architecture paper → compare it against another paper → ask "which approach handles class imbalance better?"
-
-**Literature Reviews**
-Upload 5 papers at once → use Cross-Paper Comparison → ask "what do all these papers agree on as a limitation?" → get a synthesized answer across all sources.
-
----
-
 ## 🔬 Novel Contributions
 
 Unlike standard PDF chatbots, PaperIQ introduces:
